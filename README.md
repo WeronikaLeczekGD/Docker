@@ -1,6 +1,6 @@
 # Docker
 
-1. [Fork GitHub - spring-projects/spring-petclinic: A sample Spring-based application](#ad-1)
+1. Fork GitHub - spring-projects/spring-petclinic: A sample Spring-based application
 
 2. [Create Dockerfile for Spring-petclinic application using pre-built artifact](#ad-2)
 
